@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\VB商科歷屆檔案\93\P6\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\User\Desktop\VB商科歷屆檔案\93\P6\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\User\Desktop\VB商科歷屆檔案\93\P6\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\User\Desktop\VB商科歷屆檔案\93\P6\ConsoleApp2\bin\Debug\ConsoleApp2.xml
+C:\Users\User\Desktop\VB商科歷屆檔案\93\P6\ConsoleApp2\obj\Debug\ConsoleApp2.vbprojAssemblyReference.cache
+C:\Users\User\Desktop\VB商科歷屆檔案\93\P6\ConsoleApp2\obj\Debug\ConsoleApp2.Resources.resources
+C:\Users\User\Desktop\VB商科歷屆檔案\93\P6\ConsoleApp2\obj\Debug\ConsoleApp2.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\VB商科歷屆檔案\93\P6\ConsoleApp2\obj\Debug\ConsoleApp2.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\VB商科歷屆檔案\93\P6\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\User\Desktop\VB商科歷屆檔案\93\P6\ConsoleApp2\obj\Debug\ConsoleApp2.xml
+C:\Users\User\Desktop\VB商科歷屆檔案\93\P6\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

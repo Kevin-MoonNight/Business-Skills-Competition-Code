@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\VB商科歷屆檔案\102\P2\子題1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\User\Desktop\VB商科歷屆檔案\102\P2\子題1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\User\Desktop\VB商科歷屆檔案\102\P2\子題1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\User\Desktop\VB商科歷屆檔案\102\P2\子題1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.xml
+C:\Users\User\Desktop\VB商科歷屆檔案\102\P2\子題1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\VB商科歷屆檔案\102\P2\子題1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.Resources.resources
+C:\Users\User\Desktop\VB商科歷屆檔案\102\P2\子題1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\VB商科歷屆檔案\102\P2\子題1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\User\Desktop\VB商科歷屆檔案\102\P2\子題1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.xml
+C:\Users\User\Desktop\VB商科歷屆檔案\102\P2\子題1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
